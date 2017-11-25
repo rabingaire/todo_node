@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Simple To app",
+  "main": "app.js",
+  "scripts": {
+	"start": "node app.js"
+  },
+  "author": "Rabin Gaire",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
