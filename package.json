@@ -4,11 +4,13 @@
   "description": "Simple To app",
   "main": "app.js",
   "scripts": {
-	"start": "node app.js"
+    "start": "node app.js"
   },
   "author": "Rabin Gaire",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5",
+    "pug": "^2.0.0-rc.4"
   }
 }
